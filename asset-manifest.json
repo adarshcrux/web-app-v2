@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/web-app-v2/static/css/main.f47a5ffb.css",
+    "main.js": "/web-app-v2/static/js/main.f6ac4850.js",
+    "static/js/453.deb570ed.chunk.js": "/web-app-v2/static/js/453.deb570ed.chunk.js",
+    "static/media/joseph-rosales-m0yRv0GxkV8-unsplash.jpg": "/web-app-v2/static/media/joseph-rosales-m0yRv0GxkV8-unsplash.c20af69b5d0732259d80.jpg",
+    "static/media/aleksandr-ledogorov-G-JJy-Yv_dA-unsplash.jpg": "/web-app-v2/static/media/aleksandr-ledogorov-G-JJy-Yv_dA-unsplash.29f094b1daccd172a3f6.jpg",
+    "static/media/icons8-team-7LNatQYMzm4-unsplash.jpg": "/web-app-v2/static/media/icons8-team-7LNatQYMzm4-unsplash.a635cab8839ccd906641.jpg",
+    "static/media/luis-barros-XOytueZ3Usc-unsplash.jpg": "/web-app-v2/static/media/luis-barros-XOytueZ3Usc-unsplash.9135817c56d2b9885a1e.jpg",
+    "index.html": "/web-app-v2/index.html",
+    "main.f47a5ffb.css.map": "/web-app-v2/static/css/main.f47a5ffb.css.map",
+    "main.f6ac4850.js.map": "/web-app-v2/static/js/main.f6ac4850.js.map",
+    "453.deb570ed.chunk.js.map": "/web-app-v2/static/js/453.deb570ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f47a5ffb.css",
+    "static/js/main.f6ac4850.js"
+  ]
+}
